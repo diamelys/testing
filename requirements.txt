@@ -1,5 +1,5 @@
-glob2 @ file:///home/linux1/recipes/ci/glob2_1610991677669/work
-pandas @ file:///C:/ci/pandas_1618365634936/work
-matplotlib @ file:///C:/ci/matplotlib-suite_1613408055530/work
+glob2==0.7
+pandas==1.2.4
+matplotlib==3.3.4
 streamlit==1.2.0
-Pillow @ file:///C:/ci/pillow_1617386341487/work
+pillow==8.2.0
